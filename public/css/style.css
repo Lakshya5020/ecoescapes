@@ -114,7 +114,14 @@ body {
     display: flex;
 }
 
-.show-card{
-    padding-left:0;
+.show-card {
+    padding-left: 0;
     padding-right: 0;
 }
+
+/*Map*/
+#map {
+    height: 400px;
+    width: 80vh;
+}
+
